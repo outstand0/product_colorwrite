@@ -1,0 +1,14 @@
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\bin\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\bin\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.dll

@@ -1,0 +1,455 @@
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\threadTest01.exe.config
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\obj\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\Airoha.Library.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_etc\+c_sharp_project\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_(add_factory_reset)_(region)_(new_nfc)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_2\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_3\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_ HDX-2888_V0010_test_dupe_renewal_after_ET_4-2\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2888_final\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.exe.config
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.Library.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\felicaDll.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.exe.config
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.exe
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\threadTest01.pdb
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.Library.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\felicaDll.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\+work\sw_dev\+visual_studio_source_2013\_sony_production_related_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_uc_fw\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\Airoha.BTDevices.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\Airoha.Library.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\Airoha.Model.AB1520C.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.exe
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\threadTest01.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\felicaDll.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(RTK)\bd_check\threadTest01_HDX-2936_final_unified_fw_(original)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.exe
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.pdb
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.pdb
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\felicaDll.dll
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.dll
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.pdb
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\12\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe.config
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.exe
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.pdb
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.pdb
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\felicaDll.dll
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.dll
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.dll
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.xml
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.pdb
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Form1.resources
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+d:\11\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe.config
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.exe
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.pdb
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.pdb
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\felicaDll.dll
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.dll
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.pdb
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\2\tool_test\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\felicaDll.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\felicaDll.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_HDX-2936_final_unified_fw_(original)_(test_200406)\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\felicaDll.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.dll
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\ByCustomer\0.AT\0.ATH-CKS30TW\3.Tool\SPP_TEST\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS30TW\BD_CHECK\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS50TW2\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache
