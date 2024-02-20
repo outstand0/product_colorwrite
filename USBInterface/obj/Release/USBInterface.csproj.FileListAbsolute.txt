@@ -12,3 +12,6 @@ D:\model\Tool_Source\ATH-CKS50TW2\1.PRODUCT\threadTest01_ATH-CKS30TW_final_unifi
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\bin\Release\USBInterface.dll
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\threadTest01_ATH-CKS30TW_final_unified_fw_(original)220223\USBInterface\obj\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\bin\Release\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\obj\Release\USBInterface.dll

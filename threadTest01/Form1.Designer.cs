@@ -237,6 +237,7 @@
             this.btnConnect.TabIndex = 10;
             this.btnConnect.Text = "Connect";
             this.btnConnect.UseVisualStyleBackColor = true;
+            this.btnConnect.Visible = false;
             this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
             // 
             // tbResultConnect
@@ -245,6 +246,7 @@
             this.tbResultConnect.Name = "tbResultConnect";
             this.tbResultConnect.Size = new System.Drawing.Size(100, 21);
             this.tbResultConnect.TabIndex = 11;
+            this.tbResultConnect.Visible = false;
             // 
             // btnDisconnect
             // 
@@ -254,6 +256,7 @@
             this.btnDisconnect.TabIndex = 12;
             this.btnDisconnect.Text = "Disconnect";
             this.btnDisconnect.UseVisualStyleBackColor = true;
+            this.btnDisconnect.Visible = false;
             this.btnDisconnect.Click += new System.EventHandler(this.btnDisconnect_Click);
             // 
             // textBox1
@@ -262,6 +265,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 21);
             this.textBox1.TabIndex = 13;
+            this.textBox1.Visible = false;
             // 
             // btnEnableAiroThrough
             // 
@@ -271,6 +275,7 @@
             this.btnEnableAiroThrough.TabIndex = 14;
             this.btnEnableAiroThrough.Text = "Enable AT";
             this.btnEnableAiroThrough.UseVisualStyleBackColor = true;
+            this.btnEnableAiroThrough.Visible = false;
             this.btnEnableAiroThrough.Click += new System.EventHandler(this.btnEnableAiroThrough_Click);
             // 
             // btnChangeATOutGain
@@ -281,6 +286,7 @@
             this.btnChangeATOutGain.TabIndex = 15;
             this.btnChangeATOutGain.Text = "AT Out Gain D -10";
             this.btnChangeATOutGain.UseVisualStyleBackColor = true;
+            this.btnChangeATOutGain.Visible = false;
             this.btnChangeATOutGain.Click += new System.EventHandler(this.btnChangeATOutGain_Click);
             // 
             // btnClaim
@@ -291,6 +297,7 @@
             this.btnClaim.TabIndex = 16;
             this.btnClaim.Text = "Claim?";
             this.btnClaim.UseVisualStyleBackColor = true;
+            this.btnClaim.Visible = false;
             this.btnClaim.Click += new System.EventHandler(this.btnClaim_Click);
             // 
             // btnChangeATOutGain2
@@ -301,6 +308,7 @@
             this.btnChangeATOutGain2.TabIndex = 17;
             this.btnChangeATOutGain2.Text = "AT Out Gain D 10";
             this.btnChangeATOutGain2.UseVisualStyleBackColor = true;
+            this.btnChangeATOutGain2.Visible = false;
             this.btnChangeATOutGain2.Click += new System.EventHandler(this.btnChangeATOutGain2_Click);
             // 
             // btnRoleChange
@@ -311,6 +319,7 @@
             this.btnRoleChange.TabIndex = 18;
             this.btnRoleChange.Text = "Role Change";
             this.btnRoleChange.UseVisualStyleBackColor = true;
+            this.btnRoleChange.Visible = false;
             this.btnRoleChange.Click += new System.EventHandler(this.btnRoleChange_Click);
             // 
             // btnGetAEInfo
@@ -321,6 +330,7 @@
             this.btnGetAEInfo.TabIndex = 19;
             this.btnGetAEInfo.Text = "Get AE Info";
             this.btnGetAEInfo.UseVisualStyleBackColor = true;
+            this.btnGetAEInfo.Visible = false;
             this.btnGetAEInfo.Click += new System.EventHandler(this.btnGetAEInfo_Click);
             // 
             // btnGetAgentBattery
@@ -331,6 +341,7 @@
             this.btnGetAgentBattery.TabIndex = 20;
             this.btnGetAgentBattery.Text = "Agent Battery";
             this.btnGetAgentBattery.UseVisualStyleBackColor = true;
+            this.btnGetAgentBattery.Visible = false;
             this.btnGetAgentBattery.Click += new System.EventHandler(this.btnGetAgentBattery_Click);
             // 
             // btnGetPartnerBattery
@@ -341,6 +352,7 @@
             this.btnGetPartnerBattery.TabIndex = 21;
             this.btnGetPartnerBattery.Text = "Partner Battery";
             this.btnGetPartnerBattery.UseVisualStyleBackColor = true;
+            this.btnGetPartnerBattery.Visible = false;
             this.btnGetPartnerBattery.Click += new System.EventHandler(this.btnGetPartnerBattery_Click);
             // 
             // btnGetPartnerAEInfo
@@ -351,6 +363,7 @@
             this.btnGetPartnerAEInfo.TabIndex = 22;
             this.btnGetPartnerAEInfo.Text = "Get Partner AE Info";
             this.btnGetPartnerAEInfo.UseVisualStyleBackColor = true;
+            this.btnGetPartnerAEInfo.Visible = false;
             this.btnGetPartnerAEInfo.Click += new System.EventHandler(this.btnGetPartnerAEInfo_Click);
             // 
             // btnGetAudioChannel
@@ -361,6 +374,7 @@
             this.btnGetAudioChannel.TabIndex = 23;
             this.btnGetAudioChannel.Text = "Get AUD Channel";
             this.btnGetAudioChannel.UseVisualStyleBackColor = true;
+            this.btnGetAudioChannel.Visible = false;
             this.btnGetAudioChannel.Click += new System.EventHandler(this.btnGetAudioChannel_Click);
             // 
             // btnGetPartnerAudioChannel
@@ -371,6 +385,7 @@
             this.btnGetPartnerAudioChannel.TabIndex = 24;
             this.btnGetPartnerAudioChannel.Text = "Get Partner AUD Channel";
             this.btnGetPartnerAudioChannel.UseVisualStyleBackColor = true;
+            this.btnGetPartnerAudioChannel.Visible = false;
             this.btnGetPartnerAudioChannel.Click += new System.EventHandler(this.btnGetPartnerAudioChannel_Click);
             // 
             // btnGetAvaDst
@@ -381,6 +396,7 @@
             this.btnGetAvaDst.TabIndex = 25;
             this.btnGetAvaDst.Text = "Get AVA DST";
             this.btnGetAvaDst.UseVisualStyleBackColor = true;
+            this.btnGetAvaDst.Visible = false;
             this.btnGetAvaDst.Click += new System.EventHandler(this.btnGetAvaDst_Click);
             // 
             // button1
@@ -391,6 +407,7 @@
             this.button1.TabIndex = 23;
             this.button1.Text = "Get VP Lang ID";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.btnGetAudioChannel_Click);
             // 
             // btnGetFWVersion
@@ -401,6 +418,7 @@
             this.btnGetFWVersion.TabIndex = 26;
             this.btnGetFWVersion.Text = "Get FW ver pri";
             this.btnGetFWVersion.UseVisualStyleBackColor = true;
+            this.btnGetFWVersion.Visible = false;
             this.btnGetFWVersion.Click += new System.EventHandler(this.btnGetFWVersion_Click);
             // 
             // btnGetBDAddr
@@ -411,6 +429,7 @@
             this.btnGetBDAddr.TabIndex = 27;
             this.btnGetBDAddr.Text = "Get BD Addr";
             this.btnGetBDAddr.UseVisualStyleBackColor = true;
+            this.btnGetBDAddr.Visible = false;
             this.btnGetBDAddr.Click += new System.EventHandler(this.btnGetBDAddr_Click);
             // 
             // btnGetFWMode
@@ -421,6 +440,7 @@
             this.btnGetFWMode.TabIndex = 28;
             this.btnGetFWMode.Text = "Get FW Mode";
             this.btnGetFWMode.UseVisualStyleBackColor = true;
+            this.btnGetFWMode.Visible = false;
             this.btnGetFWMode.Click += new System.EventHandler(this.btnGetFWMode_Click);
             // 
             // btnGetRWSStatus
@@ -431,6 +451,7 @@
             this.btnGetRWSStatus.TabIndex = 29;
             this.btnGetRWSStatus.Text = "Get RWS Stat";
             this.btnGetRWSStatus.UseVisualStyleBackColor = true;
+            this.btnGetRWSStatus.Visible = false;
             this.btnGetRWSStatus.Click += new System.EventHandler(this.btnGetRWSStatus_Click);
             // 
             // tbResultFWVersion
@@ -439,6 +460,7 @@
             this.tbResultFWVersion.Name = "tbResultFWVersion";
             this.tbResultFWVersion.Size = new System.Drawing.Size(100, 21);
             this.tbResultFWVersion.TabIndex = 30;
+            this.tbResultFWVersion.Visible = false;
             // 
             // btnGetBATStatus
             // 
@@ -448,6 +470,7 @@
             this.btnGetBATStatus.TabIndex = 32;
             this.btnGetBATStatus.Text = "Get BAT Stat";
             this.btnGetBATStatus.UseVisualStyleBackColor = true;
+            this.btnGetBATStatus.Visible = false;
             this.btnGetBATStatus.Click += new System.EventHandler(this.btnGetBATStatus_Click);
             // 
             // btnGetGFPSID
@@ -458,6 +481,7 @@
             this.btnGetGFPSID.TabIndex = 33;
             this.btnGetGFPSID.Text = "Get GFPS ID";
             this.btnGetGFPSID.UseVisualStyleBackColor = true;
+            this.btnGetGFPSID.Visible = false;
             this.btnGetGFPSID.Click += new System.EventHandler(this.btnGetGFPSID_Click);
             // 
             // btnGetGFPSPublickey
@@ -468,6 +492,7 @@
             this.btnGetGFPSPublickey.TabIndex = 34;
             this.btnGetGFPSPublickey.Text = "Get GFPS Pub";
             this.btnGetGFPSPublickey.UseVisualStyleBackColor = true;
+            this.btnGetGFPSPublickey.Visible = false;
             this.btnGetGFPSPublickey.Click += new System.EventHandler(this.btnGetGFPSPublickey_Click);
             // 
             // btnGetGFPSPrivatekey
@@ -478,6 +503,7 @@
             this.btnGetGFPSPrivatekey.TabIndex = 35;
             this.btnGetGFPSPrivatekey.Text = "Get GFPS Pri";
             this.btnGetGFPSPrivatekey.UseVisualStyleBackColor = true;
+            this.btnGetGFPSPrivatekey.Visible = false;
             this.btnGetGFPSPrivatekey.Click += new System.EventHandler(this.btnGetGFPSPrivatekey_Click);
             // 
             // btnGetAPTGain
@@ -488,6 +514,7 @@
             this.btnGetAPTGain.TabIndex = 36;
             this.btnGetAPTGain.Text = "Get APT Gain";
             this.btnGetAPTGain.UseVisualStyleBackColor = true;
+            this.btnGetAPTGain.Visible = false;
             this.btnGetAPTGain.Click += new System.EventHandler(this.btnGetAPTGain_Click);
             // 
             // btnSetAPTGain
@@ -498,6 +525,7 @@
             this.btnSetAPTGain.TabIndex = 37;
             this.btnSetAPTGain.Text = "Set APT Gain";
             this.btnSetAPTGain.UseVisualStyleBackColor = true;
+            this.btnSetAPTGain.Visible = false;
             // 
             // tbResultBDAddr
             // 
@@ -505,6 +533,7 @@
             this.tbResultBDAddr.Name = "tbResultBDAddr";
             this.tbResultBDAddr.Size = new System.Drawing.Size(100, 21);
             this.tbResultBDAddr.TabIndex = 38;
+            this.tbResultBDAddr.Visible = false;
             // 
             // tbResultFWMode
             // 
@@ -512,6 +541,7 @@
             this.tbResultFWMode.Name = "tbResultFWMode";
             this.tbResultFWMode.Size = new System.Drawing.Size(100, 21);
             this.tbResultFWMode.TabIndex = 39;
+            this.tbResultFWMode.Visible = false;
             // 
             // tbResultRWSStat
             // 
@@ -519,6 +549,7 @@
             this.tbResultRWSStat.Name = "tbResultRWSStat";
             this.tbResultRWSStat.Size = new System.Drawing.Size(100, 21);
             this.tbResultRWSStat.TabIndex = 40;
+            this.tbResultRWSStat.Visible = false;
             // 
             // tbResultBATStatus
             // 
@@ -526,6 +557,7 @@
             this.tbResultBATStatus.Name = "tbResultBATStatus";
             this.tbResultBATStatus.Size = new System.Drawing.Size(100, 21);
             this.tbResultBATStatus.TabIndex = 41;
+            this.tbResultBATStatus.Visible = false;
             // 
             // btnSetUserMode
             // 
@@ -535,6 +567,7 @@
             this.btnSetUserMode.TabIndex = 45;
             this.btnSetUserMode.Text = "Set User";
             this.btnSetUserMode.UseVisualStyleBackColor = true;
+            this.btnSetUserMode.Visible = false;
             this.btnSetUserMode.Click += new System.EventHandler(this.btnSetUserMode_Click);
             // 
             // btnSetGFPSID
@@ -545,6 +578,7 @@
             this.btnSetGFPSID.TabIndex = 46;
             this.btnSetGFPSID.Text = "Set GFPS ID";
             this.btnSetGFPSID.UseVisualStyleBackColor = true;
+            this.btnSetGFPSID.Visible = false;
             this.btnSetGFPSID.Click += new System.EventHandler(this.btnSetGFPSID_Click);
             // 
             // btnSetFactorymode
@@ -555,6 +589,7 @@
             this.btnSetFactorymode.TabIndex = 47;
             this.btnSetFactorymode.Text = "Set Factory";
             this.btnSetFactorymode.UseVisualStyleBackColor = true;
+            this.btnSetFactorymode.Visible = false;
             this.btnSetFactorymode.Click += new System.EventHandler(this.btnSetFactorymode_Click);
             // 
             // btnFactoryReset
@@ -565,6 +600,7 @@
             this.btnFactoryReset.TabIndex = 48;
             this.btnFactoryReset.Text = "Factory Reset";
             this.btnFactoryReset.UseVisualStyleBackColor = true;
+            this.btnFactoryReset.Visible = false;
             this.btnFactoryReset.Click += new System.EventHandler(this.btnFactoryReset_Click);
             // 
             // btnEnterDUTMode
@@ -575,6 +611,7 @@
             this.btnEnterDUTMode.TabIndex = 49;
             this.btnEnterDUTMode.Text = "DUT Mode";
             this.btnEnterDUTMode.UseVisualStyleBackColor = true;
+            this.btnEnterDUTMode.Visible = false;
             this.btnEnterDUTMode.Click += new System.EventHandler(this.btnEnterDUTMode_Click);
             // 
             // btnPoweroff
@@ -585,6 +622,7 @@
             this.btnPoweroff.TabIndex = 50;
             this.btnPoweroff.Text = "Power off";
             this.btnPoweroff.UseVisualStyleBackColor = true;
+            this.btnPoweroff.Visible = false;
             this.btnPoweroff.Click += new System.EventHandler(this.btnPoweroff_Click);
             // 
             // btnAPTModetoggle
@@ -595,6 +633,7 @@
             this.btnAPTModetoggle.TabIndex = 51;
             this.btnAPTModetoggle.Text = "APT On/Off";
             this.btnAPTModetoggle.UseVisualStyleBackColor = true;
+            this.btnAPTModetoggle.Visible = false;
             this.btnAPTModetoggle.Click += new System.EventHandler(this.btnAPTModetoggle_Click);
             // 
             // btnGetFWVersionSec
@@ -605,6 +644,7 @@
             this.btnGetFWVersionSec.TabIndex = 52;
             this.btnGetFWVersionSec.Text = "Get FW ver sec";
             this.btnGetFWVersionSec.UseVisualStyleBackColor = true;
+            this.btnGetFWVersionSec.Visible = false;
             this.btnGetFWVersionSec.Click += new System.EventHandler(this.btnGetFWVersionSec_Click);
             // 
             // btnSetGFPSPublickey
@@ -615,6 +655,7 @@
             this.btnSetGFPSPublickey.TabIndex = 53;
             this.btnSetGFPSPublickey.Text = "Set GFPS Pub";
             this.btnSetGFPSPublickey.UseVisualStyleBackColor = true;
+            this.btnSetGFPSPublickey.Visible = false;
             this.btnSetGFPSPublickey.Click += new System.EventHandler(this.btnSetGFPSPublickey_Click);
             // 
             // btnSetGFPSPrivatekey
@@ -625,6 +666,7 @@
             this.btnSetGFPSPrivatekey.TabIndex = 54;
             this.btnSetGFPSPrivatekey.Text = "Set GFPS Pri";
             this.btnSetGFPSPrivatekey.UseVisualStyleBackColor = true;
+            this.btnSetGFPSPrivatekey.Visible = false;
             this.btnSetGFPSPrivatekey.Click += new System.EventHandler(this.btnSetGFPSPrivatekey_Click);
             // 
             // btnTest1
@@ -635,6 +677,7 @@
             this.btnTest1.TabIndex = 55;
             this.btnTest1.Text = "Write Color1";
             this.btnTest1.UseVisualStyleBackColor = true;
+            this.btnTest1.Visible = false;
             this.btnTest1.Click += new System.EventHandler(this.btnTest1_Click);
             // 
             // btnTest2
@@ -645,6 +688,7 @@
             this.btnTest2.TabIndex = 56;
             this.btnTest2.Text = "Write Color2";
             this.btnTest2.UseVisualStyleBackColor = true;
+            this.btnTest2.Visible = false;
             this.btnTest2.Click += new System.EventHandler(this.btnTest2_Click);
             // 
             // tb_autotest_count
@@ -655,6 +699,7 @@
             this.tb_autotest_count.Name = "tb_autotest_count";
             this.tb_autotest_count.Size = new System.Drawing.Size(100, 93);
             this.tb_autotest_count.TabIndex = 57;
+            this.tb_autotest_count.Visible = false;
             // 
             // btnTest3
             // 
@@ -664,6 +709,7 @@
             this.btnTest3.TabIndex = 58;
             this.btnTest3.Text = "Write Color3";
             this.btnTest3.UseVisualStyleBackColor = true;
+            this.btnTest3.Visible = false;
             this.btnTest3.Click += new System.EventHandler(this.btnTest3_Click);
             // 
             // button2
@@ -674,6 +720,7 @@
             this.button2.TabIndex = 61;
             this.button2.Text = "Write Color3_R";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
@@ -684,6 +731,7 @@
             this.button3.TabIndex = 60;
             this.button3.Text = "Write Color2_R";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Visible = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
@@ -694,13 +742,14 @@
             this.button4.TabIndex = 59;
             this.button4.Text = "Write Color1_R";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1481, 782);
+            this.ClientSize = new System.Drawing.Size(1084, 782);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button4);

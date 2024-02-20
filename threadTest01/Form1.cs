@@ -145,6 +145,9 @@ namespace threadTest01
         static public string dutBdUapSec;
         static public string dutBdLapSec;
 
+        static public string dutWriteColorPri;
+        static public string dutWriteColorSec;
+
         static public string dutFullBdAddressPri;
         static public string dutFullBdAddressSec;
 
@@ -350,8 +353,9 @@ namespace threadTest01
             loadConfig();
 
             // set mainform name
-            this.Text = gDutName + " WIRELESS COLOR WRITE" + " V" + this.ProductVersion;
-           
+            //this.Text = gDutName + " WIRELESS COLOR WRITE" + " V" + this.ProductVersion;
+            this.Text = gAppName + " V" + this.ProductVersion;
+
             checkLogFile();
             checkDupeLogFile();
 
@@ -379,8 +383,12 @@ namespace threadTest01
                 lbRegion.BackColor = Color.Beige;
                 lbRegion.ForeColor = Color.Black;
             }
-                
-
+            else
+            {
+                lbRegion.BackColor = Color.Yellow;
+                lbRegion.ForeColor = Color.Red;
+                MessageBox.Show("Not exist Color! Check color data!", "Need color check", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             btnStart.Focus();
 
 #if false
@@ -751,23 +759,25 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                             }
                         }
                     }
-                    else if (a.Data[6] == 0x03 && a.Data[8] == 0x01 && a.Data[9] == 0x0A)
+                    else if (a.Data[6] == 0x03 && a.Data[8] == 0x01 && a.Data[9] == 0x0A) // write color pri
                     {
                         if(!WriteFwColorPri)
                         {
                             Console.WriteLine("Color Write Primary is ok");
                             WriteFwColorPri = true;
+                            dutWriteColorPri = gFwColor;
                         }
                     }
-                    else if (a.Data[6] == 0x03 && a.Data[8] == 0x01 && a.Data[9] == 0x0D)
+                    else if (a.Data[6] == 0x0B && a.Data[8] == 0x01 && a.Data[9] == 0x0D) // write color sec
                     {
                         if(!WriteFwColorSec)
                         {
                             Console.WriteLine("Color Write Secondary is ok");
                             WriteFwColorSec = true;
+                            dutWriteColorSec = gFwColor;
                         }
-                    }
-                    else if (a.Data[9]== 0x0A && a.Data[10] == 0x01 && a.Data[11] == 0x00)
+                    } 
+                    else if (a.Data[9]== 0x0A && a.Data[10] == 0x01 && a.Data[11] == 0x00) // check color pri
                     {
                         if(!CheckFwColorPri)
                         {                            
@@ -789,7 +799,13 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                                 Console.WriteLine("Color Check Primary is ok");
                                 CheckFwColorPri = true;
                             }
-                            else
+                            else if (a.Data[12] == 0xFF)
+                            {
+                                dutFwColorPri = "No color";
+                                Console.WriteLine("Color Check Primary is fail");
+                                CheckFwColorPri = false;
+                            }
+                            else 
                             {
                                 dutFwColorPri = "NG";
                                 Console.WriteLine("Color Check Primary is fail");
@@ -797,32 +813,32 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                             }
                         }
                     }
-                    else if (a.Data[17] == 0x0A && a.Data[18] == 0x01 && a.Data[19] == 0x00)
+                    else if (a.Data[17] == 0x0A && a.Data[18] == 0x01 && a.Data[19] == 0x00) // check color sec
                     {
                         if (!CheckFwColorSec)
                         {
                             if (a.Data[20] == 0x00)
                             {
                                 dutFwColorSec = "BK";
-                                Console.WriteLine("Color Check Primary is ok");
+                                Console.WriteLine("Color Check Secondary is ok");
                                 CheckFwColorSec = true;
                             }
                             else if (a.Data[20] == 0x01)
                             {
                                 dutFwColorSec = "GR";
-                                Console.WriteLine("Color Check Primary is ok");
+                                Console.WriteLine("Color Check Secondary is ok");
                                 CheckFwColorSec = true;
                             }
                             else if (a.Data[20] == 0x02)
                             {
                                 dutFwColorSec = "BG";
-                                Console.WriteLine("Color Check Primary is ok");
+                                Console.WriteLine("Color Check Secondary is ok");
                                 CheckFwColorSec = true;
                             }
                             else
                             {
                                 dutFwColorSec = "NG";
-                                Console.WriteLine("Color Check Primary is fail");
+                                Console.WriteLine("Color Check Secondary is fail");
                                 CheckFwColorSec = false;
                             }
                         }
@@ -1203,7 +1219,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                 if (result == 1) // flag_ng == 1
                 {
                     // write log
-                    writeLog(bd, "FAIL", typeNg);
+                     writeLog(bd, dutWriteColorPri, dutWriteColorSec, "FAIL", typeNg);
 
                     totalCount++;
                     failCount++;
@@ -1220,7 +1236,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                 else
                 {
                     // write log
-                    writeLog(bd, "PASS", "-");
+                    writeLog(bd, dutWriteColorPri, dutWriteColorSec, "PASS", "-");
 
                     totalCount++;
                     passCount++;
@@ -1375,7 +1391,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 
             tempString = IniReader.IniReadValue("CONFIG", "APPNAME", pathConfigFile);
             gAppName = tempString;
-            lb_AppName.Text = gAppName + " V" + this.ProductVersion; ;
+            lb_AppName.Text = gAppName + " V" + this.ProductVersion;
             lb_AppName.BackColor = Color.LightYellow;
             lb_AppName.ForeColor = Color.Green;
 
@@ -1536,7 +1552,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
         #endregion
 
         #region log_relative
-        private void writeLog(string bd, string result, string faildesc)
+        private void writeLog(string bd, string colorpri, string colorsec, string result, string faildesc)
         {
 #if true
             string date = DateTime.Now.ToString("yy-MM-dd HH:mm:ss");
@@ -1545,7 +1561,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
             StreamWriter sw = new StreamWriter(pathLogFile, true, Encoding.Unicode);
 
             // write measured data
-            sw.WriteLine("{0}\t{1}\t{2}\t{3}", date, bd, result, faildesc);
+            sw.WriteLine("{0}\t{1}\t{2}\t{3}\t{4}\t{5}", date, bd, colorpri, colorsec, result, faildesc);
             // close stream
             sw.Close();
 #endif
@@ -1591,7 +1607,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                 StreamWriter sw = new StreamWriter(pathLogFile, true, Encoding.Unicode);
 
                 // write basic data (index)
-                sw.WriteLine("date" + "\t" + "bd" + "\t" + "result" + "\t" + "ng description");
+                sw.WriteLine("date" + "\t" + "bd" + "\t" + "color_pri"+"\t" + "color_sec"+"\t"+"result" + "\t" + "ng description");
 #if false
                 sw.WriteLine("--" + "," + "--" + "," + "--" + "," + "--");
 #endif
@@ -2551,18 +2567,11 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 #endif
 
 #if true // disconnect -> factory reset (for ATH-CKS50TW2, when send disconnect command, earbuds enter strange state)
-            Form1.dev.StartAsyncRead();
-
-            byte[] data = new byte[50];
-            byte[] cmdData = new byte[] { 0x05, 0x5A, 0x03, 0x00, 0x01, 0x00, 0x09 };
-
-            data[0] = 0x02;
-            data[1] = 0x0b;
-            data[2] = Form1.USB_HOST_DATA_CMD_SEND_AIROHA_RACE_CMD;
-            data[3] = (byte)Buffer.ByteLength(cmdData);
-            Buffer.BlockCopy(cmdData, 0, data, 4, Buffer.ByteLength(cmdData));
-
-            Form1.dev.Write(data);
+           // factory reset -> power off (for color write program)
+            setFactoryreset();
+            //setPoweroffRelay();
+            //Thread.Sleep(500);
+            //setPoweroff();
 
 #endif
 
@@ -2590,7 +2599,53 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 #endif
             //Form1.autotest_count++;            
         }
+        
+        void setPoweroff()
+        {
+            Form1.dev.StartAsyncRead();
 
+            byte[] data = new byte[50];
+            byte[] cmdData = new byte[] { 0x05, 0x5A, 0x03, 0x00, 0x11, 0x11, 0x01 };
+
+            data[0] = 0x02;
+            data[1] = 0x0b;
+            data[2] = Form1.USB_HOST_DATA_CMD_SEND_AIROHA_RACE_CMD;
+            data[3] = (byte)Buffer.ByteLength(cmdData);
+            Buffer.BlockCopy(cmdData, 0, data, 4, Buffer.ByteLength(cmdData));
+
+            Form1.dev.Write(data);
+        }
+        void setPoweroffRelay()
+        {
+            Form1.dev.StartAsyncRead();
+            
+            byte[] data = new byte[50];
+            byte[] cmdData = new byte[] { 0x05, 0x5A, 0x0B, 0x00, 0x01, 0x0D, 0x05, 0x06, 0x05, 0x5A, 0x03, 0x00, 0x11, 0x11, 0x01 };
+
+            data[0] = 0x02;
+            data[1] = 0x0b;
+            data[2] = Form1.USB_HOST_DATA_CMD_SEND_AIROHA_RACE_CMD;
+            data[3] = (byte)Buffer.ByteLength(cmdData);
+            Buffer.BlockCopy(cmdData, 0, data, 4, Buffer.ByteLength(cmdData));
+
+            Form1.dev.Write(data);
+        }
+        void setFactoryreset()
+        {
+            Form1.dev.StartAsyncRead();
+
+            byte[] data = new byte[50];
+            byte[] cmdData = new byte[] { 0x05, 0x5A, 0x03, 0x00, 0x01, 0x00, 0x09 };
+
+            data[0] = 0x02;
+            data[1] = 0x0b;
+            data[2] = Form1.USB_HOST_DATA_CMD_SEND_AIROHA_RACE_CMD;
+            data[3] = (byte)Buffer.ByteLength(cmdData);
+            Buffer.BlockCopy(cmdData, 0, data, 4, Buffer.ByteLength(cmdData));
+
+            Form1.dev.Write(data);
+        }
+    
         private bool validateBd(string xnap, string xuap, string xlap, string type)
         {
             int flag_ng = 0;
@@ -2651,8 +2706,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
         private bool checkColor(string color)
         {
             if (color == Form1.gFwColor) { return true; }
-            else { return false; }
-            
+            else { return false; }            
         }
 
         private bool checkSwVer(string swVersion)
@@ -2769,7 +2823,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.WriteFwColorPri)
@@ -2864,7 +2918,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.WriteFwColorSec)
@@ -2933,7 +2987,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckFwColorPri)
@@ -3005,7 +3059,7 @@ END
                     Thread.Sleep(1000);
                     Count--;
 
-                    if (Form1.CheckFwColorPri)
+                    if (Form1.CheckFwColorSec)
                     {
                         Console.WriteLine("CheckFwColorSec");
                         break;
@@ -3019,7 +3073,7 @@ END
             }
             finally
             {
-                if (Count == 0 || !Form1.CheckFwColorPri)
+                if (Count == 0 || !Form1.CheckFwColorSec)
                 {
                     flag_ng = 1;
                 }
@@ -3670,7 +3724,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckBatLevel)
@@ -3834,7 +3888,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckModelNamePri)
@@ -3969,7 +4023,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckFwVersion)
@@ -4037,7 +4091,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckFwVersionPri)
@@ -4105,7 +4159,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckFwVersionSec)
@@ -4173,7 +4227,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckAncWritePri)
@@ -4211,7 +4265,7 @@ END
 
             if (flag_ng == 1)
             {
-                mainForm.gNgType[index] = "FW Version PRI fail!";
+                mainForm.gNgType[index] = "ANC WRITE PRI NG";
                 return false;
             }
             else
@@ -4247,7 +4301,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckAncWriteSec)
@@ -4285,7 +4339,7 @@ END
 
             if (flag_ng == 1)
             {
-                mainForm.gNgType[index] = "FW Version SEC fail!";
+                mainForm.gNgType[index] = "ANC WRITE SEC Fail!";
                 return false;
             }
             else
@@ -4317,7 +4371,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckShippingPoweroffPri)
@@ -4383,7 +4437,7 @@ END
                     mainForm.ShowProgressIndicator(index, true);
 
                     Form1.dev.StartAsyncRead();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                     Count--;
 
                     if (Form1.CheckShippingPoweroffSec)
