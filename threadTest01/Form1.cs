@@ -101,6 +101,8 @@ namespace threadTest01
 
         public static bool flag_CheckDefaultBDPri = false;
         public static bool flag_CheckDefaultBDSec = false;
+        public static bool flag_WriteColorPri = false;
+        public static bool flag_WriteColorSec = false;
 
 
         static public int AncWriteCheckDataPri;
@@ -452,6 +454,15 @@ namespace threadTest01
             CheckFwColorSec = false;
             CheckFactoryReset = false;
             CheckAvaDest = false;
+            flag_WriteColorPri = false;
+            flag_WriteColorSec = false;
+
+            dutFullBdAddressPri = null;
+            dutFullBdAddressSec = null;
+            dutWriteColorPri = null;
+            dutWriteColorSec = null;
+
+            typeNg = null;
         }
 
         private void NgSound()
@@ -761,7 +772,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                     }
                     else if (a.Data[6] == 0x03 && a.Data[8] == 0x01 && a.Data[9] == 0x0A) // write color pri
                     {
-                        if(!WriteFwColorPri)
+                        if (!WriteFwColorPri && flag_WriteColorPri == true)
                         {
                             Console.WriteLine("Color Write Primary is ok");
                             WriteFwColorPri = true;
@@ -770,7 +781,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                     }
                     else if (a.Data[6] == 0x0B && a.Data[8] == 0x01 && a.Data[9] == 0x0D) // write color sec
                     {
-                        if(!WriteFwColorSec)
+                        if (!WriteFwColorSec && flag_WriteColorSec == true)
                         {
                             Console.WriteLine("Color Write Secondary is ok");
                             WriteFwColorSec = true;
@@ -1230,7 +1241,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                     lbResult.Text = "FAIL";
                     //lbResult.ForeColor = Color.Red;
                     lbResult.BackColor = Color.Red;
-
+                    openpassworddlg(typeNg);
                     NgSound();
                 }
                 else
@@ -1550,6 +1561,11 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 
         }
         #endregion
+        private void openpassworddlg(string a)
+        {
+            passwordbox password = new passwordbox(a);
+            password.ShowDialog();
+        }
 
         #region log_relative
         private void writeLog(string bd, string colorpri, string colorsec, string result, string faildesc)
@@ -1607,7 +1623,7 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
                 StreamWriter sw = new StreamWriter(pathLogFile, true, Encoding.Unicode);
 
                 // write basic data (index)
-                sw.WriteLine("date" + "\t" + "bd" + "\t" + "color_pri"+"\t" + "color_sec"+"\t"+"result" + "\t" + "ng description");
+                sw.WriteLine("date" + "\t" + "bd (pri / sec)" + "\t" + "color_pri"+"\t" + "color_sec"+"\t"+"result" + "\t" + "ng description");
 #if false
                 sw.WriteLine("--" + "," + "--" + "," + "--" + "," + "--");
 #endif
@@ -2567,7 +2583,9 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 #endif
 
 #if true // disconnect -> factory reset (for ATH-CKS50TW2, when send disconnect command, earbuds enter strange state)
-           // factory reset -> power off (for color write program)
+            // factory reset -> power off (for color write program)
+            setFactoryresetRelay();
+            Thread.Sleep(500);
             setFactoryreset();
             //setPoweroffRelay();
             //Thread.Sleep(500);
@@ -2645,7 +2663,23 @@ USB_DEVICE_DATA_RSP_HS_VERSION_INFO 4
 
             Form1.dev.Write(data);
         }
-    
+        void setFactoryresetRelay()
+        {
+            Form1.dev.StartAsyncRead();
+
+            byte[] data = new byte[50];
+            byte[] cmdData = new byte[] { 0x05, 0x5A, 0x0B, 0x00, 0x01, 0x0D, 0x05, 0x06, 0x05, 0x5A, 0x03, 0x00, 0x01, 0x00, 0x09 };
+
+            data[0] = 0x02;
+            data[1] = 0x0b;
+            data[2] = Form1.USB_HOST_DATA_CMD_SEND_AIROHA_RACE_CMD;
+            data[3] = (byte)Buffer.ByteLength(cmdData);
+            Buffer.BlockCopy(cmdData, 0, data, 4, Buffer.ByteLength(cmdData));
+
+            Form1.dev.Write(data);
+        }
+
+
         private bool validateBd(string xnap, string xuap, string xlap, string type)
         {
             int flag_ng = 0;
@@ -2770,6 +2804,7 @@ END
         
         private bool procTestWriteColorPri(int index)
         {
+            Form1.flag_WriteColorPri = true;
             int flag_ng = 0;
             int Count = 20;
 
@@ -2867,6 +2902,7 @@ END
         }
         private bool procTestWriteColorSec(int index)
         {
+            Form1.flag_WriteColorSec = true;
             int flag_ng = 0;
             int Count = 20;
 

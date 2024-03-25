@@ -252,3 +252,7 @@ D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threa
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Release\threadTest01.Form1.resources
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Release\threadTest01.Properties.Resources.resources
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Release\threadTest01.csproj.GenerateResource.Cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threadTest01\obj\Release\threadTest01.passwordbox.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Release\threadTest01.exe.config
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Release\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Release\threadTest01.pdb
