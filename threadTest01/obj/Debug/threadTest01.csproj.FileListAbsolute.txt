@@ -457,3 +457,15 @@ D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\threa
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\threadTest01.exe.config
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.exe
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\threadTest01.exe
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\threadTest01.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\felicaDll.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.Form1.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.passwordbox.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.Properties.Resources.resources
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\threadTest01\obj\Debug\threadTest01.csproj.GenerateResource.Cache

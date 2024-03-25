@@ -84,3 +84,8 @@ D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBIn
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\obj\Debug\USBInterface.dll
 D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240205\USBInterface\obj\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\USBInterface\bin\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\USBInterface\bin\Debug\USBInterface.pdb
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\USBInterface\obj\Debug\USBInterface.dll
+D:\model\Tool_Source\ATH-CKS50TW2\_PRODUCT\ATH-CKS50TW2_COLOR_WRITE_240222\USBInterface\obj\Debug\USBInterface.pdb
